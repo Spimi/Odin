@@ -1,0 +1,11 @@
+What do HTML and CSS stand for?
+HTML = Hypertext Markup Language (Structure) CSS = Cascading Style Sheets ( colors, font styles, layout, responsive features etc.)
+
+Between HTML and CSS, which would you use for putting paragraphs of text on a webpage?
+HTML
+
+Between HTML and CSS, which would you use for changing the font and background color of a button?
+CSS
+
+What is the difference between HTML, CSS and JavaScript?
+We use HTML for the structure of the website, CSS for the style, and Javascript for interactive elements.
