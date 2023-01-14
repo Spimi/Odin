@@ -58,4 +58,43 @@ Siblings
 How do you create HTML comments?
 <!-- --> Everything between are not visible for the browser.
 
--------------------------------------------------------------------
+-----------------------------------------------------------------
+
+What HTML tag is used to create an unordered list?
+<ul></ul>
+
+What HTML tag is used to create an ordered list?
+<ol></ol>
+
+What HTML tag is used to create list items within both unordered and ordered lists?
+<li></li>
+
+-----------------------------------------------------------------
+
+What element is used to create a link?
+Anchor element. <a></a>
+
+What is an attribute?
+Gives additional information to an HTML element and always goes in the element's opening tag. Usually made up by a name and a value.
+
+What attribute tells links where to go to?
+href="" (hyperlink reference)
+
+What is the difference between an absolute and relative link?
+Absolute link = Links to pages on other websites on the internet. protocol://domain/path
+Relative link = Link to other pages on our own website.
+
+Which element is used to display an image?
+<img> | Self closing, src attribute
+
+What two attributes do images always need to have?
+A source (src) and an alternative text (alt).
+
+How do you access a parent directory in a filepath?
+Two dot in the relative filepath: "../dir/something.smg"
+
+What are the four main image formats that you can use for images on the web?
+JPG|GIF|PNG|SVG
+
+
+-----------------------------------------------------------------
