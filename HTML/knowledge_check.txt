@@ -27,7 +27,7 @@ What is the HTML element?
 HTML element is the root element, every other element a descendant of it.
 
 What is the purpose of the head element?
-We put meta-informations about our webpage and stuff required for our webpages to render correctly in the browser.
+We put meta-information about our webpage and stuff required for our webpages to render correctly in the browser.
 
 What is the purpose of the body element?
 We put every content that will be displayed to the users in the body tag, text, images, lists, links, etc.
@@ -47,7 +47,7 @@ What element should you use to make text bold and important?
 <strong></strong> It affects tools like screen readers.
 
 What element should you use to make text italicized to add emphasis to it?
-<em></em> Places emphasis on the text, which again afftect things like screen readers.
+<em></em> Places emphasis on the text, which again affect things like screen readers.
 
 What relationship does an element have with any nested elements within it?
 A parent - child relationship. The nested elements are the children, they are nested within is the parent.
