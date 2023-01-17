@@ -98,3 +98,10 @@ JPG|GIF|PNG|SVG
 
 
 -----------------------------------------------------------------
+What are two benefits of having well-written commit messages and a good commit history?
+A good commit history help other developers quickly see what changes were made and why.
+Having a well written and good commits will help to stand out as a novice developer for an employer.
+
+How many characters should the subject line of your commit message be?
+50, but it's not a hard limit.
+-----------------------------------------------------------------
