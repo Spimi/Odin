@@ -1,0 +1,8 @@
+Did you properly chain class selectors for each rule?
+Yes, like this: .avatar.proportioned {}
+
+Does the proportioned image retain its original square proportions?
+Yes its retain.
+
+Does the distorted image end up looking squished and, well, distorted?
+Yes, its look squished.
