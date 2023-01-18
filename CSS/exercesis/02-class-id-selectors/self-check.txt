@@ -1,0 +1,8 @@
+Do the odd numbered p elements share a class?
+Yes, they share the odd class.
+
+Do the even numbered div elements have unique IDs?
+Yes, second and fourth ID-s.
+
+Does the Number 3 element have multiple classes?
+Yes, it's have the odd and the bigger classes.
