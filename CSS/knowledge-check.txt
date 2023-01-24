@@ -31,3 +31,55 @@ Between a rule that uses one class selector and a rule that uses three type sele
 The Class selector.
 
 --------------------------------------------------------------
+
+How do you select a specific element on your page with your browser’s developer tools?
+Open Inspecting, and in the Elements tab select the element.
+
+What does a strikethrough in a CSS element mean in your browser’s developer tools?
+The strikethrough shows the styles which are being overwritten.
+
+How do you change CSS in real time on specific elements of a web page with your browser’s developer tools?
+In the Styles pane click any individual selector to add a new rule, or edit an existing one.
+
+--------------------------------------------------------------
+
+From inside to outside, what is the order of box-model properties?
+Padding, border, margin.
+
+What does the box-sizing CSS property do?
+By default CSS count the elements height and width from the base + the padding + the border. With the box-sizing property changed to border box, we make the height and width to the actual box size.
+
+What is the difference between the standard and alternative box model?
+Standard: height and width defines the inline-size/block size of the content box.
+Alternative: Any width of the width of the visible box on the page. The content are width are the width minus the width of the padding and the border.
+
+Would you use margin or padding to create more space between 2 elements?
+Margin. Margin collapses between two elements.
+
+Would you use margin or padding to create more space between the contents of an element and its border?
+Padding.
+
+Would you use margin or padding if you wanted two elements to overlap each other?
+Both.
+
+---------------------------------------------------------------
+
+What is the difference between a block element and an inline element?
+Block elements always start in a new line. Inline elements  do not start in a new line, they appear in line with whatever elements they are placed beside.
+
+What is the difference between an inline element and an inline-block element?
+Behave like inline elements, but with block-style padding and margin.
+
+Is an h1 block or inline?
+Block.
+
+Is button block or inline?
+Inline.
+
+Is div block or inline?
+Block.
+
+Is span block or inline?
+Inline.
+
+---------------------------------------------------------------
