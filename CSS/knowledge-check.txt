@@ -83,3 +83,46 @@ Is span block or inline?
 Inline.
 
 ---------------------------------------------------------------
+
+What’s the difference between a flex container and a flex item?
+The flex container is any element that has the display:flex on it, and any element inside a flex container is a flex item. Any element can be both a flex container and a flex item too.
+
+How do you create a flex item?
+Create a flex container, and any elements inside that container will be a flex item.
+
+---------------------------------------------------------------
+
+What are the 3 values defined in the shorthand flex property (e.g. flex: 1 1 auto)?
+flex-grow, flex-shrink, flex-basis
+Example: flax: 1 = flex-grow: 1, flex-shrink: 1, flex-basis: 0.
+
+What are the 3 defined values for the flex shorthand flex:auto?
+flex-grow: 1, flex-shrink: 1, flex-basis: auto
+---------------------------------------------------------------
+
+How do you make flex items arrange themselves vertically instead of horizontally?
+flex-direction: column;
+
+In a column flex-container, what does flex-basis refer to?
+To the horizontal axis.
+
+In a row flex-container, what does flex-basis refer to?
+To the vertical axis.
+
+Why do the previous two questions have different answers?
+Because we change the main axis of the flex direction.
+
+---------------------------------------------------------------
+
+What is the difference between justify-content and align-items?
+Justify-content is used for control the main axis, and align-items is used for control the cross axis.
+
+How do you use flexbox to completely center a div inside a flex container?
+align-items: center; justify-content: center;
+
+What’s the difference between justify-content: space-between and justify-content: space-around?
+space-between make equal amounts of space between the items.
+space-around can change how the space is distributed around flex-items.
+
+
+---------------------------------------------------------------
