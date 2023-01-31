@@ -1,8 +1,0 @@
-Does each element have a unique class name?
-Yes, they have first and second class names.
-
-Did you use the grouping selector for styles that both elements share?
-Yes, I use grouping selector for the font size and the for the font families.
-
-Did you make separate rules for the styles unique to each element?
-Yes, I make separate rules after the grouping selector.
